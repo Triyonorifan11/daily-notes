@@ -39,8 +39,10 @@ Setiap catatan harian berisi:
 - [November 2026](2026/11/)
   - [2026-11-23](2026/11/2026-11-23.md)
   - [2026-11-24](2026/11/2026-11-24.md)
+  - [2026-11-25](2026/11/2026-11-25.md)
 
 ## Catatan
 
 - Catatan ditulis dalam Bahasa Indonesia.
 - Repo ini publik. Jangan menulis kredensial, token, isi `.env`, data pribadi, atau detail internal yang sensitif.
+- Repo ini juga untuk catatan keseharian yang telah saya kerjakan. Be Happy for Best Feature!
